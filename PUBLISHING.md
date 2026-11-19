@@ -77,5 +77,5 @@
 1. Vercel で「Add New… → Project」から、GitHub の `shiodome47/practice-kit` を選ぶ
 2. 設定はリポジトリの `vercel.json` に書いてあるので、そのまま「Deploy」
    （ビルド: `npm run build:demo`、出力: `examples/web/dist`）
-3. できた URL を、README のいちばん上の「見本」に書く（まだ無い。できたら教えてください。CATALOG.md にも書きます）
+3. できた URL を、README のいちばん上の「見本」に書く（いまは https://practice-kit.vercel.app/ ）
 4. 見本のページでは、見本の動画で、区間を決めた回数ずつくり返す練習を試せます

@@ -7,7 +7,7 @@
 - 練習の進み方: 始める・1 回くり返した・次へ／前へ／とぶ・おわり（小さなストア。React の hook もある）
 - 記録の数え方: 今日の回数・つづけた日数・同期で記録がぶつかったときの決め方
 
-- 見本: （Vercel に置いたら、ここに URL を書きます）
+- 見本: https://practice-kit.vercel.app/ （見本の動画で、区間を決めた回数ずつくり返す練習を試せます）
 - English: [see below](#english)
 
 ## 入れ方
@@ -127,6 +127,8 @@ MIT
 ## English
 
 A headless base for practicing video sections (A-B repeat) a set number of times: section maths, the practice flow, and streak counting. Bring your own UI, storage and player.
+
+- Demo: https://practice-kit.vercel.app/
 
 ```bash
 npm install @shiodome47/practice-kit
